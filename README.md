@@ -1,3 +1,4 @@
+[![Open the analysis paper](https://img.shields.io/badge/Open%20as-PDF-red.svg?logo=adobeacrobatreader)](https://github.com/NBeibarys/CapstoneProject-Assessing-Professor-Effectiveness-APE--Using-Python/blob/main/analyses/capstone_project_report.pdf)
 [![Open Notebook](https://img.shields.io/badge/Open-Jupyter-orange.svg?logo=jupyter)](https://github.com/NBeibarys/CapstoneProject-Assessing-Professor-Effectiveness-APE--Using-Python/blob/main/analyses/analyses.ipynb)
 
 # Capstone project - Assessing Professor Effectiveness (APE)
